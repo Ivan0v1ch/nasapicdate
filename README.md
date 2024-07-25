@@ -11,6 +11,6 @@ Las contribuciones son bienvenidas. Si encuentras algún problema o tienes suger
 
 
 ## Créditos
-Esta aplicación utiliza la API de la NASA para obtener imágenes astronómicas diarias. Todos los derechos sobre las imágenes y datos pertenecen a la NASA. Puedes consultar más detalles en la [NASA APOD API]([https://api.nasa.gov/](https://github.com/nasa/apod-api]).
+Esta aplicación utiliza la API de la NASA para obtener imágenes astronómicas diarias. Todos los derechos sobre las imágenes y datos pertenecen a la NASA. Puedes consultar más detalles en la [NASA APOD API]([https://api.nasa.gov/](https://github.com/nasa/apod-api).
 
 
