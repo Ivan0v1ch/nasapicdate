@@ -10,6 +10,7 @@
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes sugerencias para mejorar la aplicación, por favor abre un **issue** o envía un **pull request**.
 
 
-### Créditos de Datos
-Las imágenes y descripciones utilizadas en esta aplicación son proporcionadas por la API de la NASA. La NASA se reserva todos los derechos sobre el contenido proporcionado.
+## Créditos
+Esta aplicación utiliza la API de la NASA para obtener imágenes astronómicas diarias. Todos los derechos sobre las imágenes y datos pertenecen a la NASA. Puedes consultar más detalles en la [NASA API](https://api.nasa.gov/).
+
 
