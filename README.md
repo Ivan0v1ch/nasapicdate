@@ -1,7 +1,7 @@
-# NASA PICDATE
+# NASA PICDATA
 ![NasaPicDateScreen](https://github.com/user-attachments/assets/7fc6e275-a84d-483f-ad0e-d15c2c0e67d0)
 
-**NASA PICDATE** es una aplicación web que permite a los usuarios explorar la "Foto del Día de Astronomía" proporcionada por la NASA. Desde su lanzamiento el 16 de junio de 1995, el programa ha presentado una fascinante colección de imágenes astronómicas y descripciones diarias.
+**NASA PICDATA** es una aplicación web que permite a los usuarios explorar la "Foto del Día de Astronomía" proporcionada por la NASA. Desde su lanzamiento el 16 de junio de 1995, el programa ha presentado una fascinante colección de imágenes astronómicas y descripciones diarias.
 
 ## Características
 
